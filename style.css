@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+.titulo {
+    font-family: monospace;
+    color: black;
+   
+}
+
+.subtitulo {
+    font-family: monospace;
+}
